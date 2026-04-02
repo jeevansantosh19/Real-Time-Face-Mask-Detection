@@ -1,8 +1,23 @@
-streamlit==1.32.0
-tensorflow==2.16.1
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-pillow
+# App
+streamlit==1.56.0
+
+# Deep Learning (FIXED for Streamlit Cloud)
+tensorflow-cpu==2.13.0
+
+# Core Libraries
+numpy==1.24.3
+pandas==1.5.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.3.0
+
+# Image Processing
+pillow==10.2.0
+
+# Compatibility Fix
+protobuf==3.20.3
+h5py==3.9.0
