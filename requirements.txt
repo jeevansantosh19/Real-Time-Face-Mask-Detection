@@ -1,8 +1,9 @@
-# App
-streamlit==1.56.0
+# Streamlit
+streamlit==1.32.0
 
-# Deep Learning (FIXED for Streamlit Cloud)
+# Deep Learning (Stable for Python 3.10)
 tensorflow-cpu==2.13.0
+keras==2.13.1
 
 # Core Libraries
 numpy==1.24.3
@@ -18,6 +19,6 @@ scikit-learn==1.3.0
 # Image Processing
 pillow==10.2.0
 
-# Compatibility Fix
+# Compatibility Fixes
 protobuf==3.20.3
 h5py==3.9.0
