@@ -1,7 +1,13 @@
 pip>=24.0
 streamlit==1.56.0
 numpy==2.4.4
-pillow==12.2.0
-h5py==3.16.0
+pillow==12.1.1
+h5py==3.14.0
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8
+seaborn==0.13.2
+pandas==3.0.2
+tensorflow==2.21.0
+tensorboard==2.16.2
 rich==14.3.3
-# tensorflow==2.15.0
