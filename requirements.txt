@@ -1,6 +1,6 @@
-pip>=26.0.1
-streamlit==1.56.0
+pip
+streamlit
 numpy
 pillow
 h5py
-tensorflow==2.13.0
+tensorflow
