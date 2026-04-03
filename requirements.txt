@@ -1,6 +1,7 @@
-pip
-streamlit
-numpy
-pillow
-h5py
-tensorflow
+pip>=24.0
+streamlit==1.56.0
+numpy==1.26.1
+pillow==10.2.0
+h5py==3.10.0
+tensorflow==2.15.0
+rich==14.3.3
