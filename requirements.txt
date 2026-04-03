@@ -4,5 +4,3 @@ numpy==2.4.4
 pillow==12.2.0
 h5py==3.16.0
 rich==14.3.3
-tensorflow
-keras
