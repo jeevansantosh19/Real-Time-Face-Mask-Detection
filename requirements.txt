@@ -1,7 +1,7 @@
 pip>=24.0
 streamlit==1.56.0
-numpy==1.26.4
-pillow==10.2.0
-h5py==3.10.0
-tensorflow==2.15.0
+numpy==2.4.4
+pillow==12.2.0
+h5py==3.16.0
 rich==14.3.3
+# tensorflow not available for Python 3.14
